@@ -1,0 +1,16 @@
+{
+  "name": "mmd-hud-prototype",
+  "version": "0.1.0",
+  "artifacts": [
+    {
+      "name": "mmd-hud.js",
+      "bytes": 167018,
+      "sha256": "0bacc1f2519d51e7c658022eb56667e21249f3d5b8bd92d90e8d7a13a41d020b"
+    },
+    {
+      "name": "mmd-hud.inject.html",
+      "bytes": 167038,
+      "sha256": "3d2e40230674c3ab5fd8e6f20a3752cc048651c4df44cf6947d940bbe4375cec"
+    }
+  ]
+}
