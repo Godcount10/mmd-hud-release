@@ -2,17 +2,17 @@
   "name": "mmd-hud-prototype",
   "version": "0.1.0",
   "channel": "dev",
-  "sourceRef": "c85e482",
+  "sourceRef": "eb2eecb",
   "artifacts": [
     {
       "name": "mmd-hud.js",
-      "bytes": 135746,
-      "sha256": "31ef288698337a728492d4ab49148dc087e39e7c605e9f9f963f001bef8aac7b"
+      "bytes": 139402,
+      "sha256": "a947afab75a99a8acf4a72b98bc61bd3510e3a86a4dd56967644e69ecf798129"
     },
     {
       "name": "mmd-hud.inject.html",
-      "bytes": 135766,
-      "sha256": "4215eb2b72716aaef723e668ae7285d7b30da22df39a7316d6cf03f185b8de50"
+      "bytes": 139422,
+      "sha256": "24abe89fcdda6c4d07aafd837553602c657c0bb5e86dd895ac782681a84f360d"
     }
   ]
 }
