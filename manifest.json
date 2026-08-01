@@ -6,13 +6,13 @@
   "artifacts": [
     {
       "name": "mmd-hud.js",
-      "bytes": 459605,
-      "sha256": "cc76ac27a5be962513b1e9e7c9c7806eca935157fb98251d2196e5ba7113704c"
+      "bytes": 463233,
+      "sha256": "6b7612160a4b9d02239dd93d0b9f0f47a3059f830a04c1a11d6ad2739e3f1b8e"
     },
     {
       "name": "mmd-hud.inject.html",
-      "bytes": 459625,
-      "sha256": "13f799adf9097de1bab071108a7f2f3b3c78ee6cf369258a190b245931b730d9"
+      "bytes": 463253,
+      "sha256": "ef5978cda843bea504c4b660f45f0b39cf259b2ec209ea2f2b8f0abc99ef7fea"
     }
   ]
 }
